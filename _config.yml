@@ -25,7 +25,7 @@ author:
   email: nbrphoto@gmail.com  #optional
   website: https://nicolasbejarano.com
 description: >- # this means to ignore newlines until "baseurl:"
-  @maxvoltar's minimalistic, self-hosted photo stream.
+  Nicolas Bejarano Professional Photography.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nicolasbejarano.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
